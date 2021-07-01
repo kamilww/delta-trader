@@ -1,6 +1,6 @@
 # delta-trader
 
-Project 2 Bootcamp (Team 6).
+# Project 2 Bootcamp (Team 6).
 Team Members
 
 * Rina Niles
